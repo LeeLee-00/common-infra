@@ -1,0 +1,37 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+bin/
+out/
+target/
+*.o
+*.class
+*.pyc
+
+# Dependency management
+node_modules/
+vendor/
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Temporary/backup files
+*.tmp
+*.bak
+*~
+
+# IDE Configuration
+.idea/
+.vscode/
+
+# Virtual Environments
+venv/
+.env
+
+# Credentials and secrets
+# (Add specific files or patterns for your secrets)
+
